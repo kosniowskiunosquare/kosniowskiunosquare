@@ -15,7 +15,7 @@ function mostrarDatos(nombre, apellido) {
 
 console.log(mostrarDatos("camilo", "kosniowski"));
 
-// ahora cxomo Arrow Function
+// ahora como Arrow Function
 // los parentessis son obligatorios si hay mas de un parametro
 
 const mostrarDatos = (nombre) => "${nombre}";
