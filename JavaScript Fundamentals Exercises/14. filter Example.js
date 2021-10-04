@@ -96,5 +96,3 @@ const videoData = [
 _.filter(videoData, function (suspectObject) {
   return suspectObject.present;
 });
-
-// output ->
